@@ -46,7 +46,7 @@ export default function App() {
       case '/':
         result = op1 / op2;
 
-        setOperand(result);
+        setOperand(result.toFixed(2));
         break;
 
       default:
