@@ -362,10 +362,10 @@ input[type='range']::-webkit-slider-thumb:hover {
   }
 
   body {
-    padding: 2.4rem;
+    padding: 1.6rem;
   }
 
   .attribution {
-    font-size: 1.6rem;
+    font-size: 2rem;
   }
 }
